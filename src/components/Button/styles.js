@@ -13,8 +13,4 @@ export const ButtonContainer = styled.button`
   &:hover {
     opacity: 0.6;
   }
-
-  @media only screen and (min-width: 1024px) {
-    font-size: 1.8rem;
-  }
 `

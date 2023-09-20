@@ -10,7 +10,7 @@
 
 O desafio realizado no Curso de Formação React Developer na DIO tinha como objetivo aplicar os conhecimentos adquiridos até o momento no curso. O objetivo principal era desenvolver as funções de multiplicação e divisão.
 
-Além disso, foram implementadas as funções de porcentagem, números negativos e números decimais. Além de ajeitar a responsividade da calculadora.
+Além disso, foram implementadas as funções de porcentagem, números negativos e números decimais. Além da responsividade da calculadora.
 
 <div align="center">
   <img width="600" src="https://github.com/AdrianaKatarina/trilha-react-desafio01-calculadora/assets/122534293/44dfb3f2-c625-4acf-a16d-4b9176cbe67c" alt="Imagem da Calculadora"/>
